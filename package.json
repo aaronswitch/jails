@@ -1,0 +1,28 @@
+{
+  "name": "jails",
+  "version": "0.0.1",
+  "main": "server.js",
+  "author": {
+    "name": "Ivan Popovski"
+  },
+  "license": "GPLv3",
+  "description": "Jails framework",
+  "dependencies": {
+    "npm": "1.1.x",
+    "mustache": "*",
+    "i18n-2": "*",
+    "restify": "2.x.x",
+    "sqlite3": "*",
+    "sequelize": "1.7.x",
+    "hiredis": "*",
+    "redis": "*",
+    "seance": "*",
+    "restify-plugin-query": "*",
+    "restify-plugin-json-body-parser": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
