@@ -1,0 +1,13 @@
+{
+  "adapter": "sqlite3",
+  "database": "test",
+  "username": "test",
+  "password": "test",
+  "encoding": "unicode",
+  "host": "127.0.0.1",
+  "port": 5432,
+  "timestamps": true,
+  "underscored": true,
+  "pool": {"maxConnections": 5, "maxIdleTime": 30},
+  "storage": "/path/to/app/db/database.sqlite"
+}

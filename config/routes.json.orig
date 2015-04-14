@@ -1,0 +1,12 @@
+{
+  "routes": {
+    "GET /echo": {
+      "controller": "echo",
+      "action": "index"
+    },
+    "POST /echo": {
+      "controller": "echo",
+      "action": "create"
+    }
+  }
+}
