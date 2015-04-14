@@ -12,7 +12,7 @@
     },
     "session/seance": {
       "type": "session",
-      "on": true,
+      "on": false,
       "version": "0.1"
     },
     "models/sequelize": {
@@ -32,7 +32,7 @@
     },
     "nosql/redis": {
       "type": "redis",
-      "on": true,
+      "on": false,
       "version": "0.1"
     }
   }
